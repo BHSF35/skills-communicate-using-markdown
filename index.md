@@ -1,5 +1,5 @@
 # BUAA
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-''' C
+''' c
 printf("hello world");
 '''
